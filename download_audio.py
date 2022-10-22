@@ -5,7 +5,7 @@ import urllib.request
 import json
 import urllib
 
-base_dir = '/home/works/Downloads/music_download'
+base_dir = 'music_directory' #/home/user/Music/
 music_dir = base_dir + "/" + "%(title)s.%(ext)s"
 
 opts = {
