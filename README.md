@@ -9,10 +9,11 @@ Check [Qutebrowser]() here, and running [custom script on QuteBrowser]()
 
 **What does this solve ?**
 
-- I am listening a song in youtube, I want to download the mp3 version of the video. Hit ```Ctrl + Shift + d``` or change the key binding as needed. 
+- I am listening a song in youtube, I want to download the audio version of the video. Hit ```Ctrl + Shift + d``` or change the key binding as needed. 
 
 
 **How to setup ?** 
 
 1. Install Qutebrowser.
 2. Install this awesome [tool](https://github.com/hiway/python-qutescript) that creates an executable bit set for qutebrowser to run them.
+
