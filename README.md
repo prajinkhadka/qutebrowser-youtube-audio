@@ -16,4 +16,7 @@ Check [Qutebrowser]() here, and running [custom script on QuteBrowser]()
 
 1. Install Qutebrowser.
 2. Install this awesome [tool](https://github.com/hiway/python-qutescript) that creates an executable bit set for qutebrowser to run them.
+3. Install [youtube-dl](https://pypi.org/project/youtube_dl/)
+4. Run ```python3 download_audio.py --install --bin=download_audio```, this will install a userscript at ```$HOME/user/.local/share/qutebrowser/userscripts/download_audio```
+
 
