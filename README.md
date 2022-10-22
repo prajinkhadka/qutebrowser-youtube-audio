@@ -5,7 +5,7 @@ It is a lightweight browser built on top of PyQt5 toolkit, works with current Py
 
 As with unix philosophy, it can pipe commands with webpage text, current URL etc to your shell scripts or binaries, and can accept commands through a temporary FIFO/pipe back to the browser.
 
-Check [Qutebrowser]() here, and running [custom script on QuteBrowser]()
+Check [Qutebrowser](https://qutebrowser.org/) here, and running [custom script on QuteBrowser](https://qutebrowser.org/doc/userscripts.html)
 
 **What does this solve ?**
 
