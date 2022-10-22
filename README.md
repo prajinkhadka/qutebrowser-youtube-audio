@@ -11,6 +11,7 @@ Check [Qutebrowser]() here, and running [custom script on QuteBrowser]()
 
 - I am listening a song in youtube, I want to download the audio version of the video. Hit ```Ctrl + Shift + d``` or change the key binding as needed. 
 
+![](https://raw.githubusercontent.com/prajinkhadka/qutebrowser-youtube-audio/main/example.gif)
 
 **How to setup ?** 
 
