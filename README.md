@@ -9,7 +9,7 @@ Check [Qutebrowser](https://qutebrowser.org/) here, and running [custom script o
 
 **What does this solve ?**
 
-- I am listening a song in youtube, I want to download the audio version of the video. Hit ```Ctrl + Shift + d``` or change the key binding as needed. 
+- I am listening a song in youtube, I want to download the audio version of the video. Hit ```Ctrl + Shift + d```, that would download the audio and save in my music directory. 
 
 ![](https://raw.githubusercontent.com/prajinkhadka/qutebrowser-youtube-audio/main/example.gif)
 
@@ -29,13 +29,13 @@ Check [Qutebrowser](https://qutebrowser.org/) here, and running [custom script o
 
 6. Open the youtube video that you want to download. ( important, you need to be on the same page what you want to download ) 
 
-7. In command mode run ```:spawn --userscript download_audio``` , this will download and save the audio in the specified directory.
+7. In command mode run ```:spawn --userscript download_audio``` , this will download and save the audio in the specified music directory.
 
 **Setting up Keybinding**
 
 1. Qutebrowser stores config file in ```$HOME/.config/qutebrowser/config.py``` 
 
-2. Add ```config.bind("<Ctrl+Shift+d>", "spawn --userscript download_audio")```
+2. Add ```config.bind("<Ctrl+Shift+d>", "spawn --userscript download_audio")``` in config.py, and restart the browser.
 
 
 
